@@ -7,7 +7,7 @@ widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 
-title: '👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai.'
+title: 'DataRx'
 subtitle: ''
 
 design:
@@ -65,9 +65,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Get in Touch
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)  
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名
-
-## Credits
-
-[Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
