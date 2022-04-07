@@ -8,8 +8,8 @@
 appearance:
   theme_day:
   theme_night: minimal
-  font: native
-  font_size: S
+  font: mr robot
+  font_size: s
 
 # SEO
 
