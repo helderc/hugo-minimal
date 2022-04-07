@@ -1,7 +1,5 @@
 # [Hugo Minimal Theme](https://github.com/wowchemy/hugo-minimal-theme)
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
-
 The **Minimal Template** empowers you to easily create a simple one-page site **without any code**, just using **widgets**.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
